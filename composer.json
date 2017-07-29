@@ -1,0 +1,15 @@
+{
+    "name": "miraframework/cache",
+    "description": "Service Provider for Mira Framework to add caching of arbitrary data",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Mancuso",
+            "email": "jmancuso.mil@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    }
+}
